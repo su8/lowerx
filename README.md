@@ -5,7 +5,7 @@ Lowercase certain character
 
 ```bash
 # input
-lowerx 0 Hello World
+$> lowerx 0 Hello World
 
 # output
 $> hello World 
@@ -14,6 +14,6 @@ $> hello World
 # Installation
 
 ```bash
-make
-make install
+$ make
+# make install
 ```
